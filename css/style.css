@@ -1,0 +1,21 @@
+body{
+  background:#f3f3f3
+}  
+.btn{
+  margin:1px;
+}
+.bg{
+  background:#d5f1c9;
+  padding:5px; 
+  margin-left:auto;
+  margin-right:auto;
+  border:black solid 2px;
+}
+.card{
+  width:300px;
+  hight:500px;
+  margin-left:auto;
+  margin-right:auto;
+  box-shadow: 0px 1px 15px grey ;
+
+}
